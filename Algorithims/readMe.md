@@ -6,6 +6,9 @@ see if you can do them.  If not, I'll be able to help you along, but we do want
 you to try first.  You dont need any extra knowledge here as long as you already
 know variables, lists, for loops, if conditionals, and function declarations.
 
+The goal is to complete the challenge by developing a function that uses for loops
+or while loops to accomplish the given challenge
+
 When I first started, many people in my class asked why these matter and how we
 can apply them to getting jobs.
 
