@@ -1,4 +1,4 @@
-#Tracke
+#Tracker
 
 This will keep track of which challenges youve completed
 
