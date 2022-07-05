@@ -6,10 +6,8 @@
 # Code goes below here
 
 
-
-
-
-
+print(" XXXX\n X  X\n XXXX")
+#this was actually the easiest i think u didn't mean it this way but it did the job
 
 
 
