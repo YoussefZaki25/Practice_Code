@@ -6,6 +6,15 @@
 
 # Code goes here below
 
+for i in range(1,10):
+    if i % 2 != 0:
+        print(i)
+
+
+
+for i in range (1,11):
+    if i % 2 == 0:
+        print(i)
 
 
 #In a 5 iteration loop heres what the output should look like
