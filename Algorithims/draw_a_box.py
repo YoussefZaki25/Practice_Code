@@ -1,4 +1,4 @@
-#I wrote this one during my 3rd week and I won't like this one is a little tough
+#I wrote this one during my 3rd week and I won't lie this one is a little tough
 
 #Youve learned how to print things.  Now the last challenge Ill leave you here
 #for a bit until you complete these is to draw a box with code
