@@ -14,9 +14,9 @@ print(" XXXX\n X  X\n XXXX")
 
 #Heres what the output should look like in the terminal
 
-# XXXX
-# X  X
-# XXXX
+#  XXXXX
+#  XXXXX
+#  XXXXX
 
 #Keep in mind they dont have to be 'X' you can use an '*' asterisk
 #as long as it draws a box
