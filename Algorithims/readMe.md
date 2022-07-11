@@ -1,4 +1,4 @@
-#Algorithms
+# Algorithms
 
 In this folder we will practice algorithms.  Essentially, I will set up some
 problems for you.  I will describe what I want your code to do, and then we will
